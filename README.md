@@ -1,1 +1,1 @@
-# rails_test_aplication
+# railsのテスト用アプリケーション
